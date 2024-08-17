@@ -1,0 +1,65 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Welcome to My Blog",
+      "content": "This is the first post on my blog. I'm excited to share my thoughts and experiences with you.",
+       "createdAt": "2024-08-18T14:35:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Exploring React",
+      "content": "In this post, I'll delve into the basics of React and how to get started with building interactive web applications.",
+      "createdAt": "2024-08-18T14:35:00Z"
+    },
+    {
+      "id": "3",
+      "title": "Lets Talk Football",
+      "content": "The Premier League returns tonight at Old Trafford with Manchester United welcoming Fulham",
+      "createdAt": "2024-08-18T14:35:00Z"
+    }
+    
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": 1,
+      "text": "Great post! Looking forward to more updates."
+    },
+    {
+      "id": "2",
+      "postId": 2,
+      "text": "Thanks for the React tutorial. It was very helpful."
+    },
+    {
+      "id": "3",
+      "postId": 3,
+      "text": "JSON Server is indeed useful. Thanks for the tips!"
+    },
+    {
+      "id": "2d86",
+      "postId": "1",
+      "content": "wow thats nice "
+    },
+    {
+      "id": "2d6a",
+      "postId": "3",
+      "content": "Marcus Rashford struggled to produce his best form for the Red Devils last season and still looked short of confidence at Wembley Stadium."
+    },
+    {
+      "id": "4d11",
+      "postId": "3",
+      "content": "thats true"
+    },
+    {
+      "id": "f8ce",
+      "postId": "1",
+      "content": "thththh"
+    },
+    {
+      "id": "4ea4",
+      "postId": "3",
+      "content": "we will tonight"
+    }
+  ]
+}
